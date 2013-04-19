@@ -43,6 +43,6 @@
 [submodule "bundle/vim-flake8"]
 	path = bundle/vim-flake8
 	url = https://github.com/nvie/vim-flake8.git
-[submodule "bundle/ctrlp"]
-	path = bundle/ctrlp
+[submodule "bundle/ctrlp-filetype.vim"]
+	path = bundle/ctrlp-filetype.vim
 	url = https://github.com/endel/ctrlp-filetype.vim.git
